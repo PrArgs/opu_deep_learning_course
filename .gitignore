@@ -1,1 +1,6 @@
 /mmn14/data
+/mmn15/data/cifar-10-batches-py
+/mmn15/mmn15/data/cifar-10-batches-py
+mmn15/best_transfer_model.pth
+mmn15/output.png
+*.gz
